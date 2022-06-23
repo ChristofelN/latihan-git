@@ -8,3 +8,6 @@ console.log("baris kedua");
 
  //rabu
  console.log("baris kelima");
+
+//kamis
+console.log("baris keenam");
